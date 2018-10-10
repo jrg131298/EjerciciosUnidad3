@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\bin\Debug\E3-1MejorandoLaClase.exe.config
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\bin\Debug\E3-1MejorandoLaClase.exe
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\bin\Debug\E3-1MejorandoLaClase.pdb
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\obj\Debug\E3-1MejorandoLaClase.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\obj\Debug\E3-1MejorandoLaClase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\obj\Debug\E3-1MejorandoLaClase.exe
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3-1MejorandoLaClase\E3-1MejorandoLaClase\obj\Debug\E3-1MejorandoLaClase.pdb
