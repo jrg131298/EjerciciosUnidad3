@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\bin\Debug\EC3-1RamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\bin\Debug\EC3-1RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\bin\Debug\EC3-1RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\obj\Debug\EC3-1RamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\obj\Debug\EC3-1RamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\obj\Debug\EC3-1RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\EC3-1RamirezGarciaJesus\EC3-1RamirezGarciaJesus\obj\Debug\EC3-1RamirezGarciaJesus.pdb
