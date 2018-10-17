@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\bin\Debug\E3-2InvestigacionRamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\bin\Debug\E3-2InvestigacionRamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\bin\Debug\E3-2InvestigacionRamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\obj\Debug\E3-2InvestigacionRamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\obj\Debug\E3-2InvestigacionRamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\obj\Debug\E3-2InvestigacionRamirezGarciaJesus.exe
+C:\Users\DELL\Documents\Estrctura de datos\E3-2InvestigacionRamirezGarciaJesus\E3-2InvestigacionRamirezGarciaJesus\obj\Debug\E3-2InvestigacionRamirezGarciaJesus.pdb
