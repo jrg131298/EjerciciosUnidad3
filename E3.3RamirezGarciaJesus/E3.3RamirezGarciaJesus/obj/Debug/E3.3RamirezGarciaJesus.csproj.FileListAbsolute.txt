@@ -5,3 +5,10 @@ C:\Users\DELL\Desktop\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3
 C:\Users\DELL\Desktop\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Desktop\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.exe
 C:\Users\DELL\Desktop\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\bin\Debug\E3.3RamirezGarciaJesus.exe.config
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\bin\Debug\E3.3RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\bin\Debug\E3.3RamirezGarciaJesus.pdb
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.exe
+C:\Users\DELL\Documents\GitHub\EjerciciosUnidad3\E3.3RamirezGarciaJesus\E3.3RamirezGarciaJesus\obj\Debug\E3.3RamirezGarciaJesus.pdb

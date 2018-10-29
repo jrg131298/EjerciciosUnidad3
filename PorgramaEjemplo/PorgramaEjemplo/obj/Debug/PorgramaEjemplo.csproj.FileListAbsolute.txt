@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\bin\Debug\PorgramaEjemplo.exe.config
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\bin\Debug\PorgramaEjemplo.exe
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\bin\Debug\PorgramaEjemplo.pdb
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\obj\Debug\PorgramaEjemplo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\obj\Debug\PorgramaEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\obj\Debug\PorgramaEjemplo.exe
+C:\Users\DELL\source\repos\PorgramaEjemplo\PorgramaEjemplo\obj\Debug\PorgramaEjemplo.pdb

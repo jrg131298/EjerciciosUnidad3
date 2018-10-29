@@ -29,58 +29,65 @@ namespace E3._3RamirezGarciaJesus
                 CargaCartas CC = new CargaCartas(); //Se crea un objeto de la clase CargaCartas
                 CC.Carga(); //Metodo el cual barajea
                 CC.SacarCarta(CantidadCartas); //Saca las primeras 2 cartas
-                do
+                SalirPartida = CC.VerificarSuma(false);
+                if(SalirPartida == true)
+                { }
+                else
                 {
-                    if (CantidadCartas < 5) //Si cumple la condicion, significa que aun no se tiene la cantidad maxima de cartas
+                    do
                     {
-                        Console.Clear();
-                        Console.WriteLine("-----Partida No.{0}-----", CantidadJuegos);
-                        Console.WriteLine("Ganados:{0}\tPerdidos:{1}", Ganados, Perdidos);
-                        CC.MostrarMano(); //Muestra la mano del usuario
-                        Console.WriteLine("\nDeseas otra carta?");
-                        Console.WriteLine("1.- Si");
-                        Console.WriteLine("2.- No");
-                        Console.Write("R: ");
-                        try
+                        if (CantidadCartas < 5) //Si cumple la condicion, significa que aun no se tiene la cantidad maxima de cartas
                         {
-                            Opcion = Convert.ToInt32(Console.ReadLine());
-                            if (Opcion == 1) //Si se cumple, significa que se desea otra carta
+                            Console.Clear();
+                            Console.WriteLine("-----Partida No.{0}-----", CantidadJuegos);
+                            Console.WriteLine("Ganados:{0}\tPerdidos:{1}", Ganados, Perdidos);
+                            CC.MostrarMano(); //Muestra la mano del usuario
+                            Console.WriteLine("\nDeseas otra carta?");
+                            Console.WriteLine("1.- Si");
+                            Console.WriteLine("2.- No");
+                            Console.Write("R: ");
+                            try
                             {
-                                CantidadCartas++;
-                                CC.SacarCarta(CantidadCartas); //Se saca otra carta
-                                SalirPartida = CC.VerificarSuma(false); //Se verifica si la suma de sus cartas son <= 21
-                                                                        //true = cuando suma <= a 21
-                                                                        //false = cuando suma < 21
+                                Opcion = Convert.ToInt32(Console.ReadLine());
+                                if (Opcion == 1) //Si se cumple, significa que se desea otra carta
+                                {
+                                    CantidadCartas++;
+                                    CC.SacarCarta(CantidadCartas); //Se saca otra carta
+                                    SalirPartida = CC.VerificarSuma(false); //Se verifica si la suma de sus cartas son <= 21
+                                                                            //true = cuando suma <= a 21
+                                                                            //false = cuando suma < 21
+                                }
+                                else if (Opcion == 2) //Si se cumple, significa que no se desea otra carta
+                                {
+                                    SalirPartida = true; //Valor que permitira termianar la partida
+                                }
+                                else //Si se cumple, significa que se introdujo un valor no aceptable
+                                {
+                                    Console.WriteLine("A ocurrido un error, intentelo de nuevo por favor.\nPresione una tecla para continuar.");
+                                    Console.ReadKey();
+                                    SalirPartida = false;
+                                }
                             }
-                            else if (Opcion == 2) //Si se cumple, significa que no se desea otra carta
-                            {
-                                SalirPartida = true; //Valor que permitira termianar la partida
-                            }
-                            else //Si se cumple, significa que se introdujo un valor no aceptable
+                            catch //Captura de un error
                             {
                                 Console.WriteLine("A ocurrido un error, intentelo de nuevo por favor.\nPresione una tecla para continuar.");
                                 Console.ReadKey();
-                                SalirPartida = false;
                             }
                         }
-                        catch //Captura de un error
+                        else //Si se cumple, significa que ya se tiene la cantidad maxima de cartas
                         {
-                            Console.WriteLine("A ocurrido un error, intentelo de nuevo por favor.\nPresione una tecla para continuar.");
-                            Console.ReadKey();
+                            Console.Clear();
+                            Console.WriteLine("-----Partida No.{0}-----", CantidadJuegos);
+                            Console.WriteLine("Ganados:{0}\tPerdidos:{1}\n", Ganados, Perdidos);
+                            CC.MostrarMano(); //Muestra la mano del usuario
+                            CC.VerificarSuma(false); //Se verifica si la suma de sus cartas son <= 21
+                                                     //true = cuando suma <= a 21
+                                                     //false = cuando suma < 21
+                            SalirPartida = true; //Valor que permita terminar la partida
                         }
-                    }
-                    else //Si se cumple, significa que ya se tiene la cantidad maxima de cartas
-                    {
-                        Console.Clear();
-                        Console.WriteLine("-----Partida No.{0}-----", CantidadJuegos);
-                        Console.WriteLine("Ganados:{0}\tPerdidos:{1}\n", Ganados, Perdidos);
-                        CC.MostrarMano(); //Muestra la mano del usuario
-                        CC.VerificarSuma(false); //Se verifica si la suma de sus cartas son <= 21
-                                                 //true = cuando suma <= a 21
-                                                 //false = cuando suma < 21
-                        SalirPartida = true; //Valor que permita terminar la partida
-                    }
-                } while (SalirPartida == false); //Mientras se cumpla la condicion, la partida actual seguira en proceso
+                    } while (SalirPartida == false); //Mientras se cumpla la condicion, la partida actual seguira en proceso
+                }
+                
                 Console.Clear();
                 Console.WriteLine("-----Partida No.{0}-----", CantidadJuegos);
                 Console.WriteLine("Ganados:{0}\tPerdidos:{1}", Ganados, Perdidos);
