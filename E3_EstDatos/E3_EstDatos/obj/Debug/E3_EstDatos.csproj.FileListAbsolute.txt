@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.exe
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.pdb
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.exe
+C:\Users\DELL\Documents\Estrctura de datos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.pdb
