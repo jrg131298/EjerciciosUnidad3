@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\bin\Debug\PE-3PracticasEvaluativas.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\bin\Debug\PE-3PracticasEvaluativas.exe
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\bin\Debug\PE-3PracticasEvaluativas.pdb
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\obj\Debug\PE-3PracticasEvaluativas.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\obj\Debug\PE-3PracticasEvaluativas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\obj\Debug\PE-3PracticasEvaluativas.exe
+C:\Users\DELL\Documents\Estrctura de datos\PE-3PracticasEvaluativas\PE-3PracticasEvaluativas\obj\Debug\PE-3PracticasEvaluativas.pdb
